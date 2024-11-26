@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/location-finder-client" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/location-finder-client/location_finder" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/location-finder-client/location_finder/v1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/location-finder-client/location_finder/v1/find_by_address" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/location-finder-client/location_finder/v1/find_by_geo" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/location-finder-client/location_finder/v1/find_by_keyword_id" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/location-finder-client/location_finder/v1/locations" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/location-finder-client/location_finder/v1/locations/item" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/location-finder-client/models" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/shipment-tracking-client" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/shipment-tracking-client/models" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/shipment-tracking-client/shipments" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/venv" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="Python 3.11 (DHL-integration)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
